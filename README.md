@@ -1,10 +1,10 @@
 # 🏋️‍♂️Hi, my name is Daryoush but everyone calls me Darius
 
-**`IT Programming Student & Aspiring Developer`**
+**`Developer | Backend | Systems Analysis |  Solution Design`**
 
-I'm an IT Programming student at NSCC. I have a strong foundation in several coding languages and frameworks, project management, and systems analysis. I get fired up by solving complex problems and continuously improving my skills. My goal is a career in full-stack development or systems architecture where I can create scalable, efficient solutions.
+I’m a software developer at Lockheed Martin Canada and co-founder of Parallax AI & Software Systems. I work with Java, SQL and full-stack applications, with a focus on translating real-world needs into clear workflows and practical software. I’m particularly interested in backend systems, architecture and automation.
 
-Outside of school and coding I'm a weightlifter and music producer.
+Outside of software, I’m a competitive weightlifter and music producer.
 
 ---
 
